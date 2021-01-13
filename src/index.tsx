@@ -192,6 +192,7 @@ class Thoughts extends React.Component {
                 keywords: "youtube video tube google",
                 icon: () => (
                   <img
+                    alt="Youtube icon"
                     src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg"
                     width={24}
                     height={24}
